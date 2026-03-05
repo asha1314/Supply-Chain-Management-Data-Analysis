@@ -9,8 +9,11 @@ Data Modeling,
 Dashboard Development.
 
 Key Objectives:
+
 Analyze supply chain and inventory data.
 
 Identify trends in stock and demand.
+
 Improve inventory planning and forecasting.
+
 Create interactive dashboards for insights.
